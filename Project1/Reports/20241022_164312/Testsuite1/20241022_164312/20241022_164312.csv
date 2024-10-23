@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsuite1,Chrome 129.0.0.0,,,22-10-2024 16:43:23,22-10-2024 16:48:36,5m - 12.854s,FAILED
+,,,,,,,
+Test Cases/Test3,Chrome 129.0.0.0,,,22-10-2024 16:47:08,22-10-2024 16:48:36,1m - 28.014s,FAILED
+"openBrowser("""")",Chrome 129.0.0.0,,,22-10-2024 16:47:08,22-10-2024 16:47:10,1.527s,PASSED
+"navigateToUrl(""https://www.radarbox.com/"")",Chrome 129.0.0.0,,,22-10-2024 16:47:10,22-10-2024 16:47:15,5.189s,PASSED
+"click(findTestObject(""Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/path""))",Chrome 129.0.0.0,,,22-10-2024 16:47:15,22-10-2024 16:47:51,36.358s,PASSED
+"click(findTestObject(""Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/span_Solutions""))",Chrome 129.0.0.0,,,22-10-2024 16:47:51,22-10-2024 16:47:53,1.517s,PASSED
+"click(findTestObject(""Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/span_Store""))",Chrome 129.0.0.0,,,22-10-2024 16:47:53,22-10-2024 16:47:54,1.419s,PASSED
+"click(findTestObject(""Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/a_Shop Now""))",Chrome 129.0.0.0,,,22-10-2024 16:47:54,22-10-2024 16:47:59,5.075s,PASSED
+delay(3),Chrome 129.0.0.0,,,22-10-2024 16:47:59,22-10-2024 16:48:02,3.012s,PASSED
+takeScreenshot(),Chrome 129.0.0.0,,,22-10-2024 16:48:02,22-10-2024 16:48:03,0.737s,PASSED
+"click(findTestObject(""Object Repository/Page_RadarBox Store - AirNav RadarBox - Glo_6a4893/a_USA""))",Chrome 129.0.0.0,,,22-10-2024 16:48:03,22-10-2024 16:48:36,33.114s,FAILED

@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "#splash-close-container path",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/20241022_164312/Testsuite1/20241022_164312/Object Repository/Page_AirNav RadarBox - Global Flight Tracki_da097f/path_SMART_LOCATOR.png"
+    }
+  ]
+}
